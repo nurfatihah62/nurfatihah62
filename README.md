@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @nurfatihah62
-- 👀 I’m interested in learning new programming language
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning Python, Excel, and SQL Query
+- 🌱 I’m currently learning Microsoft Power Query
+- 📫 How to reach me [...](https://www.linkedin.com/in/nurfatihah-azmi-406466148/)
 
 <!---
 nurfatihah62/nurfatihah62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
